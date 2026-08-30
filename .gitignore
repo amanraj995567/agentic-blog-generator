@@ -23,3 +23,7 @@ npm-debug.log*
 
 # Logs
 *.log
+
+# Generated blogs and illustrations
+output/
+images/

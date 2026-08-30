@@ -1,0 +1,9 @@
+langgraph==0.6.11
+langchain-core==0.3.86
+langsmith==0.4.37
+langchain-community==0.3.31
+langchain-google-genai==2.1.12
+pydantic==2.13.5
+python-dotenv==1.2.1
+requests==2.32.5
+streamlit==1.50.0
